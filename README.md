@@ -21,7 +21,6 @@ A machine learning-driven trading strategy using **Support Vector Classifier (SV
 ├── data/                   # Contains SPY.csv (S&P 500 historical data)
 ├── S&P SVM.ipynb           # Main Jupyter notebook with code
 ├── README.md               # Project overview
-└── requirements.txt        # Python dependencies
 ```
 
 ---
